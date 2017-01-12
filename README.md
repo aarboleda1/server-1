@@ -2,7 +2,7 @@
 
 ## Team:
 - [Michel Mitrakos](https://www.michaelmitrakos.com) - CTO
-- [Lucy Ji](https://www.github.com/lucyji1000) - Lead Security Engineer
+- [Lucy Ji](https://www.github.com/lucyji1000) - Chief Security Officer
 - [Christopher Phan](https://github.com/cpp3) - Software Engineer
 
 ## Built With:
@@ -10,8 +10,8 @@
 |:------------:|:--------------------|
 | Node JS      | Mocha               |
 | Express      | Chai                |
-| Postgres     |                     |
-| Sequelize    |                     |
+| Mongo        |                     |
+|              |                     |
 |              |                     |
 
 ## Getting Started

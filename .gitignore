@@ -1,0 +1,8 @@
+node_modules
+.env
+myserver.key
+www.healthyu.io.crt
+www.healthyu.io.key
+www.healthyu.io.chain.crt
+www.healthyu.io.chained.crt
+server.csr
