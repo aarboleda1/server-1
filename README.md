@@ -4,6 +4,7 @@
 - [Michel Mitrakos](https://www.michaelmitrakos.com) - CTO
 - [Lucy Ji](https://www.github.com/lucyji1000) - Chief Security Officer
 - [Christopher Phan](https://github.com/cpp3) - Software Engineer
+- [Anton Arboleda](https://github.com/aarboleda1) - Software Engineer
 
 ## Built With:
 | Back-End     | Testing Frameworks  |
