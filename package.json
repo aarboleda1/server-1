@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/healthyu-inc/server#readme",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.16.0",
     "cors": "^2.8.1",
     "dotenv": "^4.0.0",
@@ -28,6 +29,7 @@
     "lodash": "^4.17.4",
     "mongoose": "^4.8.1",
     "morgan": "^1.8.0",
+    "q-": "0.0.0",
     "request": "^2.79.0",
     "request-promise": "^4.1.1",
     "showdown": "^1.6.4"
